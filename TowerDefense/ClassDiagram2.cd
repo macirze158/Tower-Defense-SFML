@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BackgroundTile" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>backgroundTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAIQAAA=</HashCode>
+      <FileName>bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndTile" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>endTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgECCAAAACAAAAAAAAAAAAGAAAAAAAAAgAIAAAI=</HashCode>
+      <FileName>enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyGenerator" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAAQAARAAAAAAACIAADAIAAAAABAAAAAAAIAIA=</HashCode>
+      <FileName>enemyGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameState" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAEAAAAAIIACAEAAACUCAAAAQAAMAMIA=</HashCode>
+      <FileName>gameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MousePosMenagement" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAACAAAEACAiAAAAAEBACAAAIAAAIQQQAgIAAgAAA=</HashCode>
+      <FileName>mousePos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PathTile" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pathTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterTower" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>shooterTower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperTower" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sniperTower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartTile" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>startTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQgAAAAAAAAAAAAAQAAQABAADAAAFgAKQABQA=</HashCode>
+      <FileName>tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileSelector" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAACAAEAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tileSelector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileSet" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAgAAgAAAAqAAAAAAEAAAA=</HashCode>
+      <FileName>tileSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tower" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAEEIAAEABAIAAAABBAABEBAAAAAIAAAgEYAAA=</HashCode>
+      <FileName>tower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerBaseTile" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>towerBaseTile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerManager" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAIIAAAAQAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>towerManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TileType" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAACAAAAAAAAAAgQAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>tile.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TowerType" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>tower.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

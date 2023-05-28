@@ -1,0 +1,3 @@
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\TowerDefense\x64\Debug\TowerDefense.exe
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\x64\Debug\TowerDefense.exe
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\x64\Debug\TowerDefense.exe

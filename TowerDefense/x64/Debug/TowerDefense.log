@@ -1,0 +1,158 @@
+﻿  backgroundTile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  bullet.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\bullet.cpp(5,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\bullet.cpp(5,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  endTile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  enemy.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemy.cpp(6,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemy.cpp(6,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  enemyGenerator.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(32,49): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(33,49): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(38,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(57,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gameState.cpp
+  mousePos.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(32,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(34,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(66,94): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(66,71): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(71,93): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(71,70): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  pathTile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  shooterTower.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\shooterTower.cpp(6,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SniperTower.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\SniperTower.cpp(6,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  startTile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  tile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.cpp(11,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.cpp(11,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.cpp(69,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.cpp(70,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  tileSelector.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSelector.cpp(16,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSelector.cpp(16,96): warning C4018: '<': signed/unsigned mismatch
+  tileSet.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(36,56): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(36,45): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(39,50): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(39,39): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(42,55): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(42,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(45,51): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(45,40): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(48,49): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tileSet.cpp(48,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  tower.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(6,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(6,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(21,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(33,76): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(33,53): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(49,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(78,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tower.cpp(91,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  towerBaseTile.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  TowerDefense.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\TowerDefense.cpp(113,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+  towerManager.cpp
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\mousePos.cpp(55): warning C4715: 'MousePosMenagement::clickPos': not all control paths return a value
+  TowerDefense.vcxproj -> C:\Users\Maciek\source\repos\7787deeb-gr41-repo\Projekt\Projekt-SFML new\TowerDefense\x64\Debug\TowerDefense.exe

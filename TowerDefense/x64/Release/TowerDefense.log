@@ -1,0 +1,162 @@
+﻿  backgroundTile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  bullet.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\bullet.cpp(5,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\bullet.cpp(5,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  endTile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  enemy.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemy.cpp(6,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemy.cpp(6,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  enemyGenerator.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(32,49): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(33,49): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(38,47): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\enemyGenerator.cpp(57,47): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  gameState.cpp
+  mousePos.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(32,41): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(34,41): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(66,94): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(66,71): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(71,93): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(71,70): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  pathTile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  shooterTower.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\shooterTower.cpp(6,22): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  SniperTower.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\SniperTower.cpp(6,22): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  startTile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  tile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.cpp(11,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.cpp(11,35): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.cpp(71,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.cpp(72,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  tileSelector.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSelector.cpp(16,44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSelector.cpp(16,96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  tileSet.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(36,56): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(36,45): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(39,50): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(39,39): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(42,55): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(42,44): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(45,51): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(45,40): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(48,49): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tileSet.cpp(48,38): warning C4244: "argument": konwersja z "const float" do "int", możliwa utrata danych
+  tower.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(6,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(6,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(21,18): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(33,76): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(33,53): warning C4244: "argument": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(49,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(78,30): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tower.cpp(91,47): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  towerBaseTile.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  TowerDefense.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\TowerDefense.cpp(124,23): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+  towerManager.cpp
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(17,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\tile.h(18,20): warning C4244: "inicjowanie": konwersja z "const float" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\mousePos.cpp(55): warning C4715: "MousePosMenagement::clickPos”: niewszystkie ścieżki kodu zwracają wartość
+  1400 of 2373 functions (59.0%) were compiled, the rest were copied from previous compilation.
+    1082 functions were new in current compilation
+    158 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  TowerDefense.vcxproj -> C:\Users\Maciek\source\repos\Projekt-SFML new\TowerDefense\x64\Release\TowerDefense.exe
